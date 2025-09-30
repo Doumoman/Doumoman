@@ -26,4 +26,4 @@
   Unity, Android, 탑쌓기, 캐주얼 게임  / [스토어](https://play.google.com/store/apps/details?id=com.ExP.Munyumtop&pcampaignid=web_share)
 
 - **2025 ExP Make팀 여름 게임잼 Bee1010** [GitHub](https://github.com/Doumoman/2025-ExPSummerGameJam-2) (2025.08 ~ 출시완료)
-   Unity, 2D, Android, 퍼즐 / [스토어](https://play.google.com/store/apps/details?id=com.ExP.Bee1010)
+  Unity, 2D, Android, 퍼즐 / [스토어](https://play.google.com/store/apps/details?id=com.ExP.Bee1010)
